@@ -10,7 +10,8 @@ public class Items {
 	
 		this.priceMap.put("Milk",2);  
 		this.priceMap.put("Bread",1);  
-		this.priceMap.put("Yoghurt",1);  
+		this.priceMap.put("Yoghurt",1); 
+		//changed water to Water
 		this.priceMap.put("Water",1);  
 		this.priceMap.put("Cheese",3);  
 		this.priceMap.put("Pasta",1);  

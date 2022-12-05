@@ -16,6 +16,7 @@ public class Main {
 		
 		ShoppingBasket johnShoppingBasket = new ShoppingBasket();
 		johnShoppingBasket.addTobasket("Bread");
+		//changed water to Water
 		johnShoppingBasket.addTobasket("Water");
 	    System.out.println("john bill : " + johnShoppingBasket.getBill());
 	    

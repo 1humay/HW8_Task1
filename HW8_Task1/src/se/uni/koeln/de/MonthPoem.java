@@ -38,6 +38,7 @@ public class MonthPoem {
             case MAY:
                 System.out.println("May brings flocks of pretty lambs\n"
                 		+ "    Skipping by their fleecy dams.");
+                //added break
                 break;
                 
             case JUNE: 
